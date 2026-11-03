@@ -1,0 +1,9 @@
+baseURL = 'https://edbt.rsharpe.dev'
+locale = 'en-us'
+title = 'Encylopedia of Digital Bible Tools'
+theme = 'book'
+
+[params]
+BookSection = 'posts'
+BookToC = true
+BookPageLinks = true
